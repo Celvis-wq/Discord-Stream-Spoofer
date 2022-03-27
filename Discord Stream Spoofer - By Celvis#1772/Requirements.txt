@@ -1,1 +1,3 @@
 Windows 10 - Windows 11
+
+This program will not work if you have any background process on your device showing on your discord status. Have everything that can show on the status off then run the program.

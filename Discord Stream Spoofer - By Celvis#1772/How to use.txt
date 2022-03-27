@@ -1,0 +1,10 @@
+How to use Stream Spoofer:
+
+In main.py, you can change the title and link that the status will redirect to.
+Ex:
+  await client.change_presence(activity = discord.Streaming(name = "Stream spoofer - Celvis#1772" , url = "https://www.youtube.com/watch?v=sk25VISwSfk"))
+                                                                    ^ Change to whatever you want |        ^ Change to whatever you want
+
+Starting it:
+
+I prefer replit to start it because of the server. Just upload the folder, modify whatever you want (Except credits regarding me), then just hit run and watch your status change.
